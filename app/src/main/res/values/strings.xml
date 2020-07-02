@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ControleFinanceiro</string>
+    <string name="btCalcular">Calcular</string>
+    <string name="btDesconto">Desconto Simples</string>
+    <string name="btJurosCompostos">Juros Compostos</string>
+    <string name="btJurosSimples">Juros Simples</string>
+</resources>
